@@ -3,5 +3,5 @@ Apps:
     Name: Get-Set
     Description: Xooa Get Set Smart Contract
     path: /common/
-    language: go
+    language: nodejs
     README: https://github.com/deepakalpeo/mobilemoneycommon/blob/master/README.md  
