@@ -2,6 +2,6 @@ Apps:
   Alepo-Mobile-Common:
     Name: Get-Set
     Description: Xooa Get Set Smart Contract
-    path: /sacc/
+    path: /common/
     language: go
     README: https://github.com/deepakalpeo/mobilemoneycommon/blob/master/README.md  
